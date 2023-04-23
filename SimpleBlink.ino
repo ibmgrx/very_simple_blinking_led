@@ -1,4 +1,3 @@
-
 static bool isLedOn = false;
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
